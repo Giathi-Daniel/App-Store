@@ -12,6 +12,36 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 node --version
 ```
 
+#To download yarn
+
+```
+npm install -g yarn
+```
+
+#To create a new project
+
+```
+yarn create react-app ./
+```
+
+#To start building
+
+```
+npm start
+```
+
+#To download Tailwind CSS
+
+```
+yarn add tailwindcss
+```
+
+#To initialize tailwindcss
+
+```
+yarn tailwindcss init
+```
+
 #To initialize the Firebase console
 
 ```
