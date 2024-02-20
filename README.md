@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 > Full Stack - App Build - ReactJs, Firebase Functions
 
-![This is the Project Thumbnail](../images/images/thumb.png)
+![This is the Project Thumbnail](./images/images/thumb.png)
 
 #To check the node version
 
