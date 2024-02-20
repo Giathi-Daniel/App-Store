@@ -27,7 +27,7 @@ yarn create react-app ./
 #To start building
 
 ```
-npm start
+yarn start
 ```
 
 #To download Tailwind CSS
